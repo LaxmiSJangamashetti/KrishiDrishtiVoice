@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "status": "curated-initial-release",
+  "scope": {"region": "Karnataka, India", "crop": "tomato"},
+  "reviewed_on": "2026-11-09",
+  "entries": [
+    {
+      "id": "tomato-crop-profile-001", "crop": "tomato", "category": "crop_information", "topic": "general cultivation profile",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "cultivation", "soil", "climate", "irrigation"],
+      "description_en": "ICAR-IIVR describes tomato as a warm-weather crop, with a listed climatic range of 20–30°C, well-drained loam or sandy-loam soils, and regular irrigation; it notes drip irrigation as recommended.", "description_kn": null,
+      "possible_causes": [], "distinguishing_signs": [], "follow_up_questions": ["What is the crop age?", "Is the field draining well after irrigation or rain?"],
+      "safe_initial_actions": ["Observe soil moisture and drainage before changing irrigation.", "Record the crop stage and recent weather."], "expert_referral_conditions": ["Seek local advice when plants are rapidly declining or many plants are affected."],
+      "region_applicability": "India; verify local suitability in Karnataka", "growth_stage_applicability": "general",
+      "source": {"title": "Tomato - Comprehensive cultivation guide", "organization": "ICAR-Indian Institute of Vegetable Research", "url": "https://icariivr.org.in/tomato/", "publication_date": null}, "reviewed_on": "2026-11-09", "evidence_status": "official_educational_information", "limitations": "General information is not a field-specific recommendation. No pesticide dose is provided."
+    },
+    {
+      "id": "tomato-leaf-yellowing-001", "crop": "tomato", "category": "symptom", "topic": "yellowing leaves",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "yellow", "yellowing", "leaves", "leaf", "ಹಳದಿ", "ಎಲೆ"],
+      "description_en": "Yellowing leaves are a symptom, not a confirmed diagnosis. Several explanations may need to be distinguished using plant position, watering, wilting, spots, insects, crop age, and root or stem observations.", "description_kn": null,
+      "possible_causes": ["nutrient-related stress", "water or drainage stress", "root or wilt problems", "virus or pest-associated problems"], "distinguishing_signs": ["Lower versus upper leaves affected", "Uniform yellowing versus yellowing between veins", "Wilting, spots, curling, visible insects, or persistently wet soil"],
+      "follow_up_questions": ["Are lower leaves or upper leaves affected?", "Are all leaves yellow, or only the areas between veins?", "Is the plant wilting?", "Is the soil continuously wet?", "Are there visible insects or spots?", "How old is the crop?"],
+      "safe_initial_actions": ["Do not apply a pesticide or nutrient dose based on yellowing alone.", "Inspect several plants and note whether the pattern is spreading.", "Check drainage and soil moisture without disturbing roots."], "expert_referral_conditions": ["Rapid wilting, widespread symptoms, stem discoloration, or substantial crop loss require a qualified plant-health expert."],
+      "region_applicability": "Karnataka; symptom interpretation requires local confirmation", "growth_stage_applicability": "all stages",
+      "source": {"title": "Web applications on horticultural crops", "organization": "ICAR-Indian Institute of Horticultural Research", "url": "https://webapps.iihr.res.in/", "publication_date": null}, "reviewed_on": "2026-11-09", "evidence_status": "cautious_triage_pending_field_confirmation", "limitations": "This record deliberately does not diagnose the cause of yellowing. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-major-disease-categories-001", "crop": "tomato", "category": "disease_reference", "topic": "major diseases reported for tomato",
+      "keywords": ["tomato", "disease", "early blight", "late blight", "bacterial wilt", "leaf curl", "fusarium wilt"],
+      "description_en": "ICAR-IIVR lists late blight, early blight, bacterial wilt, and leaf curl virus among major tomato diseases. This list is a reference for follow-up questioning, not a diagnosis.", "description_kn": null,
+      "possible_causes": [], "distinguishing_signs": ["Disease-specific confirmation requires field examination and, where needed, plant-health diagnosis."], "follow_up_questions": ["Are there leaf spots or concentric rings?", "Is there rapid wilting?", "Are leaves curling with visible whiteflies?"],
+      "safe_initial_actions": ["Separate observation of symptoms from disease naming.", "Avoid moving visibly affected plant material to another area."], "expert_referral_conditions": ["Request plant-health-clinic or agricultural-officer assessment before disease-specific treatment."],
+      "region_applicability": "India; Karnataka relevance requires local confirmation", "growth_stage_applicability": "all stages",
+      "source": {"title": "Tomato - Comprehensive cultivation guide", "organization": "ICAR-Indian Institute of Vegetable Research", "url": "https://icariivr.org.in/tomato/", "publication_date": null}, "reviewed_on": "2026-11-09", "evidence_status": "official_list_not_diagnostic", "limitations": "No universal chemical control or pesticide dose is included."
+    },
+    {
+      "id": "tomato-major-pest-categories-001", "crop": "tomato", "category": "pest_reference", "topic": "major pests reported for tomato",
+      "keywords": ["tomato", "pest", "whitefly", "aphid", "thrips", "fruit borer", "leaf miner", "insect"],
+      "description_en": "ICAR-IIVR lists fruit borer, whitefly, aphids, thrips, and leaf miner among major tomato pests. A visible insect should be identified before any control decision.", "description_kn": null,
+      "possible_causes": [], "distinguishing_signs": ["Look for insects, feeding damage, mines, frass, or fruit entry holes; these observations do not by themselves confirm species."], "follow_up_questions": ["Where are the insects or damage located?", "Are there mines in leaves or holes in fruit?", "Are insects visible on the underside of leaves?"],
+      "safe_initial_actions": ["Inspect multiple plants and record the affected plant part.", "Do not use a pesticide or dose from this assistant without a current local recommendation."], "expert_referral_conditions": ["Escalate when damage is spreading quickly or fruit is being lost."],
+      "region_applicability": "India; Karnataka relevance requires local confirmation", "growth_stage_applicability": "all stages",
+      "source": {"title": "Tomato - Comprehensive cultivation guide", "organization": "ICAR-Indian Institute of Vegetable Research", "url": "https://icariivr.org.in/tomato/", "publication_date": null}, "reviewed_on": "2026-11-09", "evidence_status": "official_list_not_diagnostic", "limitations": "No pesticide recommendation or dosage is included."
+    },
+    {
+      "id": "karnataka-referral-001", "crop": "tomato", "category": "expert_referral", "topic": "local plant-health support",
+      "keywords": ["expert", "officer", "clinic", "ಸಲಹೆ", "ತಜ್ಞ"],
+      "description_en": "UAS Bengaluru's Plant Pathology department describes farmer-facing disease diagnostic services, and its Bengaluru Rural KVK lists a Plant Health Clinic and soil and water testing laboratory.", "description_kn": null,
+      "possible_causes": [], "distinguishing_signs": [], "follow_up_questions": ["Which Karnataka district is the field in?", "Can you provide clear photos of the whole plant and affected part?"],
+      "safe_initial_actions": ["Take dated photos and note crop age, recent rain, irrigation, and spread pattern before seeking advice."], "expert_referral_conditions": ["Use a local plant-health clinic or agricultural officer for confirmation when symptoms are severe or unclear."],
+      "region_applicability": "Karnataka", "growth_stage_applicability": "all stages",
+      "source": {"title": "Department of Plant Pathology / KVK Bengaluru Rural", "organization": "University of Agricultural Sciences, Bengaluru", "url": "https://www.uasbangalore.edu.in/en/department-of-plant-pathology/", "publication_date": null}, "reviewed_on": "2026-11-09", "evidence_status": "official_referral_information", "limitations": "The assistant does not provide a diagnosis or replace local expert assessment."
+    },
+    {
+      "id": "tomato-waterlogging-001", "crop": "tomato", "category": "environmental_stress", "topic": "waterlogging and drainage observations",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "standing water", "waterlogging", "poor drainage", "wet soil", "water stagnation", "drainage", "ನೀರು ನಿಂತಿದೆ", "ಒದ್ದೆ ಮಣ್ಣು"],
+      "description_en": "Standing water and poor drainage are observations that need to be separated from disease. The inspected ICAR-IIHR crop-production page states that well-drained soil is preferred and that waterlogging increases bacterial-wilt incidence.", "description_kn": null,
+      "possible_causes": ["waterlogging or poor drainage", "a root or wilt problem requiring expert confirmation"], "distinguishing_signs": ["Standing water or persistently wet soil", "Low-lying or poorly drained area", "Wilting despite wet soil"],
+      "follow_up_questions": ["How long has water been standing?", "Is the affected area low-lying or poorly drained?", "Did this follow irrigation or recent rainfall?", "Are plants wilting even though the soil is wet?", "Are other plants in the same area affected?"],
+      "safe_initial_actions": ["Observe and record standing water, drainage, recent irrigation, and rainfall.", "Do not automatically diagnose bacterial wilt from wet soil or wilting."], "expert_referral_conditions": ["Standing water persists, wilting is rapid, or several plants in a patch are affected."],
+      "region_applicability": "Karnataka; verify local field conditions", "growth_stage_applicability": "all stages",
+      "source": {"title": "Crop Production", "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru", "url": "https://tomato-crop.web.app/page1.html", "publication_date": null}, "reviewed_on": "2026-11-10", "evidence_status": "partial_source_supported_triage", "limitations": "The source supports drainage and waterlogging context, not a diagnosis or treatment schedule. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-water-stress-001", "crop": "tomato", "category": "environmental_stress", "topic": "water-stress triage",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "wilting", "wilt", "soil is dry", "dry soil", "irrigated yesterday", "irrigation", "rainfall", "ನೀರು", "ಒಣಗುತ್ತಿದೆ"],
+      "description_en": "Wilting with dry soil should be investigated through irrigation method, time since irrigation or rainfall, soil moisture, crop stage, and whether symptoms are uniform or patchy. No universal irrigation schedule is provided.", "description_kn": null,
+      "possible_causes": ["water stress", "uneven irrigation", "heat or root stress requiring confirmation"], "distinguishing_signs": ["Dry soil at the root zone", "Wilting after a long interval without irrigation or rain", "Uniform versus patchy symptoms"],
+      "follow_up_questions": ["What irrigation method is used?", "When was the last irrigation or rainfall?", "What is the crop growth stage?", "Is the soil dry at root depth?", "Are symptoms uniform or patchy?"],
+      "safe_initial_actions": ["Check soil moisture and recent rainfall before changing irrigation.", "Record crop stage and whether the pattern is uniform or patchy."], "expert_referral_conditions": ["Wilting persists despite adequate moisture, the pattern is sharply patchy, or plants decline rapidly."],
+      "region_applicability": "Karnataka; verify local field conditions", "growth_stage_applicability": "all stages",
+      "source": {"title": "Crop Production", "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru", "url": "https://tomato-crop.web.app/page1.html", "publication_date": null}, "reviewed_on": "2026-11-10", "evidence_status": "partial_source_supported_triage", "limitations": "The source supports irrigation-context questions, not a universal schedule or diagnosis. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-whitefly-001", "crop": "tomato", "category": "pest_observation", "topic": "whitefly observations",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "whitefly", "tiny white insects", "small white insects", "leaf underside", "insects under leaves", "ಬಿಳಿ ಕೀಟ"],
+      "description_en": "Whitefly is an observation topic only. ICAR-IIHR and ICAR-IIVR list whitefly among tomato pests, but leaves that are yellow or curled do not confirm whiteflies.", "description_kn": null,
+      "possible_causes": ["visible whitefly-like insects", "other insects or a non-pest cause requiring confirmation"], "distinguishing_signs": ["Small insects visible on leaf undersides", "Young leaves curling", "Problem present on multiple plants", "Other visible symptoms"],
+      "follow_up_questions": ["Are small insects visible on leaf undersides?", "Are young leaves curling?", "Is the problem present on multiple plants?", "Are there other visible symptoms?"],
+      "safe_initial_actions": ["Inspect several plants and record where insects and symptoms are visible.", "Do not treat yellowing or curling as confirmation of whiteflies."], "expert_referral_conditions": ["The problem is widespread, plants are declining, or a pest-control decision is being considered."],
+      "region_applicability": "India; verify local Karnataka conditions", "growth_stage_applicability": "all stages",
+      "source": {"title": "Tomato Cultivation — Crop Management & Diagnostic Solutions", "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru", "url": "https://tomato-crop.web.app/", "publication_date": null}, "reviewed_on": "2026-11-10", "evidence_status": "partial_source_supported_observation", "limitations": "The source supports whitefly as a major pest category, not this complete identification guide. No pesticide product or dose is provided. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-fruit-borer-001", "crop": "tomato", "category": "pest_observation", "topic": "fruit-borer observations",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "fruit borer", "fruit damaged", "damaged fruit", "entry hole", "entry holes", "frass", "ಹಣ್ಣು ಹಾನಿ"],
+      "description_en": "Fruit damage should be inspected for entry holes and frass before any pest identification. ICAR-IIHR and ICAR-IIVR list fruit borer among tomato pests, but fruit damage alone does not confirm a fruit borer.", "description_kn": null,
+      "possible_causes": ["fruit-borer-like damage", "mechanical injury, fruit rot, cracking, or another cause requiring confirmation"], "distinguishing_signs": ["Visible entry holes", "Frass near the damaged area", "Fruit growth stage affected", "Number of fruits showing damage"],
+      "follow_up_questions": ["Are there visible entry holes?", "Is there frass near the damaged area?", "Which fruit growth stage is affected?", "How many fruits show damage?"],
+      "safe_initial_actions": ["Inspect and photograph affected fruit and record the extent of damage.", "Do not claim confirmed pest identification from fruit damage alone."], "expert_referral_conditions": ["Damage is spreading, marketable fruit loss is significant, or chemical control is being considered."],
+      "region_applicability": "India; verify local Karnataka conditions", "growth_stage_applicability": "fruit development to harvest",
+      "source": {"title": "Tomato - Comprehensive cultivation guide", "organization": "ICAR-Indian Institute of Vegetable Research", "url": "https://icariivr.org.in/tomato/", "publication_date": null}, "reviewed_on": "2026-11-10", "evidence_status": "partial_source_supported_observation", "limitations": "The source supports fruit borer as a major pest category, not confirmation from symptoms. No chemical control is provided. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-leaf-miner-001", "crop": "tomato", "category": "pest_observation", "topic": "leaf-miner observations",
+      "keywords": ["tomato", "ಟೊಮೆಟೋ", "leaf miner", "leaf-miner", "serpentine trails", "winding trails", "mines in leaves", "ಎಲೆಗಳಲ್ಲಿ ಗೆರೆ"],
+      "description_en": "Leaf-miner observation requires winding or serpentine trails inside leaves. ICAR-IIHR and ICAR-IIVR list leaf miner or serpentine leaf miner among tomato pests, but ordinary leaf spots or yellowing do not identify leaf miner.", "description_kn": null,
+      "possible_causes": ["leaf-miner-like trails", "ordinary leaf spots, nutrient injury, or physical damage requiring confirmation"], "distinguishing_signs": ["Winding or serpentine trails visible inside leaves", "Several leaves affected", "Damage spreading", "Crop stage affected"],
+      "follow_up_questions": ["Are winding or serpentine trails visible inside leaves?", "Are several leaves affected?", "Is the damage spreading?", "Which crop stage is affected?"],
+      "safe_initial_actions": ["Photograph the trail pattern and inspect multiple plants.", "Do not identify leaf miner solely from ordinary leaf spots or yellowing."], "expert_referral_conditions": ["Damage is increasing, multiple plants are affected, or a control decision is required."],
+      "region_applicability": "India; verify local Karnataka conditions", "growth_stage_applicability": "all stages",
+      "source": {"title": "Tomato Cultivation — Crop Management & Diagnostic Solutions", "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru", "url": "https://tomato-crop.web.app/", "publication_date": null}, "reviewed_on": "2026-11-10", "evidence_status": "partial_source_supported_observation", "limitations": "The source supports leaf miner as a pest category, not symptom-only confirmation. No chemical control is provided. Kannada description is pending verified review."
+    }
+  ]
+}
