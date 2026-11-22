@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+baseFontSize = 17
+baseFontWeight = 500
+primaryColor = "#185844"
+backgroundColor = "#F2EBDD"
+secondaryBackgroundColor = "#E7E1D1"
+textColor = "#102F27"
+borderColor = "#78947F"
+baseRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[client]
+toolbarMode = "minimal"
+
