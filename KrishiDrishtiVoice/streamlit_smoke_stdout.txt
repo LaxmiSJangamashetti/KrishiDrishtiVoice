@@ -1,0 +1,7 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8511
+  Network URL: http://10.175.116.1:8511
+  External URL: http://152.57.113.226:8511
+

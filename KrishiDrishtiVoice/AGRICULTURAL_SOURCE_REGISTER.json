@@ -1,0 +1,13 @@
+{
+  "retrieved_on": "2026-11-24",
+  "policy": "Metadata and independently written summaries only; chemical rates from source pages are not exposed by the application.",
+  "sources": [
+    {"url": "https://tomato-crop.web.app/page1.html", "title": "Crop Production", "publisher_as_displayed": "ICAR-IIHR branding; publisher identity requires independent confirmation", "usage": "public webpage inspected; no reuse permission or licence statement verified", "status": "reference_only_pending_rights_and_agricultural_review"},
+    {"url": "https://tomato-crop.web.app/page4.html", "title": "Disease Management", "publisher_as_displayed": "ICAR-IIHR branding; publisher identity requires independent confirmation", "usage": "public webpage inspected; no reuse permission or licence statement verified", "status": "not imported_as_verified_records"},
+    {"url": "https://tomato-crop.web.app/pest.html", "title": "Pest Management", "publisher_as_displayed": "ICAR-IIHR branding; publisher identity requires independent confirmation", "usage": "public webpage inspected; no reuse permission or licence statement verified", "status": "pest_categories_only; chemical_content_restricted"},
+    {"url": "https://tomato-crop.web.app/page6.html", "title": "Tomato Varieties", "publisher_as_displayed": "ICAR-IIHR branding; publisher identity requires independent confirmation", "usage": "public webpage inspected; no reuse permission or licence statement verified", "status": "reference_only_pending_rights_and_review"},
+    {"url": "https://ccari.res.in/dss/rice.html", "title": "Crop: Rice", "publisher": "ICAR-Central Coastal Agricultural Research Institute", "usage": "official educational page inspected; no separate reuse licence verified", "status": "used_for_local_summary_with_attribution"},
+    {"url": "https://agritech.tnau.ac.in/expert_system/paddy/nutrientmanagement.html", "title": "Nutrient Management", "publisher": "Tamil Nadu Agricultural University", "usage": "official educational page inspected; no separate reuse licence verified", "status": "supporting_reference_only"},
+    {"url": "https://www.celkau.in/crops/cereals/rice/deficiency.php", "title": "Rice nutrient deficiency symptoms", "publisher": "Kerala Agricultural University, KAU Agri-Infotech Portal", "usage": "official educational page inspected; no separate reuse licence verified", "status": "used_for_local_summary_with_attribution"}
+  ]
+}

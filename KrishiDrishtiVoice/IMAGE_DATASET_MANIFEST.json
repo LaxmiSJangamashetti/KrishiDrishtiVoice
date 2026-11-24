@@ -1,0 +1,65 @@
+{
+  "schema_version": "0.1-draft",
+  "status": "plantvillage_archive_acquired_tomato_subset_extracted",
+  "human_review_required": true,
+  "leakage_policy": "Split by plant, farm, or collection group when metadata permits; never split near-duplicates across partitions.",
+  "plantvillage_archive_class_counts": {
+    "tomato": 18160,
+    "potato": 2152,
+    "maize": 3852,
+    "bell_pepper_not_chilli": 2475,
+    "rice": 0,
+    "chilli": 0
+  },
+  "image_capability_note": "Tomato, potato and maize have experimental trained/exported models. Rice and chilli remain text-only because no eligible, authorized image dataset is installed; bell pepper is not treated as chilli.",
+  "task_12_5_reliability_note": "Unknown-image rejection and independent calibration remain incomplete; all image predictions are experimental hypotheses, never diagnoses.",
+  "task_12_5_dataset_research": {
+    "rice": [{"title": "Rice Leaf Bacterial and Fungal Disease Dataset", "source_url": "https://data.mendeley.com/datasets/hx6f852hw4/2", "license": "CC BY 4.0", "reported_original_images": 1701, "reported_augmented_images": 5188, "reported_labels": ["Bacterial Leaf Blight", "Brown Spot", "Leaf scald", "Narrow Brown Leaf Spot", "Rice Hispa", "Sheath Blight", "Leaf Blast", "Healthy Rice Leaf"], "status": "not_acquired_network_blocked"}],
+    "chilli": [{"title": "Chili Leaf Disease Dataset", "source_url": "https://data.mendeley.com/datasets/wzc6r6w5w5/2", "license": "CC BY 4.0 (page field)", "reported_images": 1544, "reported_class_counts": {"Anthracnose": 351, "Cercospora Leaf Spot": 371, "Leaf Curl Disease": 383, "Healthy Leaves": 439}, "status": "not_acquired_network_blocked", "licence_scope_note": "The same page also states public access for non-commercial use; commercial deployment rights are unresolved.", "field_note": "reported smartphone field images; chilli-specific, not bell pepper"}]
+  },
+  "trained_model_experiments": {
+    "tomato": {"status": "experimental", "model_dir": "D:\\KrishiDrishtiML\\models\\tomato_full_exp2", "classes": 10},
+    "potato": {"status": "experimental", "model_dir": "D:\\KrishiDrishtiML\\models\\potato_exp1", "classes": 3, "images": 2152, "split_counts": {"train": 1506, "validation": 323, "test": 323}, "artifact": "mobilenet_v3_small_potato.onnx"},
+    "maize": {"status": "experimental", "model_dir": "D:\\KrishiDrishtiML\\models\\maize_exp1", "classes": 4, "images": 3852, "split_counts": {"train": 2696, "validation": 578, "test": 578}, "artifact": "mobilenet_v3_small_maize.onnx"},
+    "rice": {"status": "no_eligible_images", "classes": 0, "research_status": "candidate CC BY 4.0 datasets identified; not acquired or trained"},
+    "chilli": {"status": "no_eligible_images", "classes": 0, "research_status": "candidate CC BY 4.0 dataset identified; not acquired or trained; bell pepper excluded"}
+  },
+  "records": [
+    {
+      "dataset_name": "PlantVillage",
+      "dataset_version": "Hugging Face card as inspected 2026-11-24",
+      "source_url": "https://huggingface.co/datasets/mohanty/PlantVillage",
+      "license": "CC BY-SA 3.0 (dataset card declaration; image-level rights require separate verification)",
+      "acquisition_status": "archive_acquired_subset_extracted",
+      "verified_card_summary": "Dataset card reports 54,306 images, 14 crop species and 26 diseases; viewer shows a converted 130k-row split.",
+      "crop_label": "tomato",
+      "disease_or_symptom_label": null,
+      "image_identifier": null,
+      "source_collection_group": null,
+      "annotation_status": "unverified",
+      "human_review_status": "pending",
+      "split": null,
+      "checksum": "FBA30C6A7965E49BE94B47A62F8AFF6CFB1C35C27F475F22092B56DB41745E84",
+      "archive_path": "D:\\KrishiDrishtiML\\datasets\\PlantVillage_data.zip",
+      "extracted_path": "D:\\KrishiDrishtiML\\datasets\\plantvillage_tomato_color",
+      "extracted_image_count": 18160,
+      "extracted_class_count": 10
+    },
+    {
+      "dataset_name": "PlantDoc",
+      "dataset_version": "repository state as inspected 2026-11-24",
+      "source_url": "https://github.com/pratikkayal/PlantDoc-Dataset",
+      "license": "CC BY 4.0 (repository license; image-level provenance and redistribution terms require verification)",
+      "acquisition_status": "not_acquired",
+      "verified_card_summary": "Repository reports 2,598 images across 13 plant species and up to 17 disease classes; scraped-image provenance requires careful review.",
+      "crop_label": "tomato",
+      "disease_or_symptom_label": null,
+      "image_identifier": null,
+      "source_collection_group": null,
+      "annotation_status": "unverified",
+      "human_review_status": "pending",
+      "split": null,
+      "checksum": null
+    }
+  ]
+}

@@ -1,0 +1,2719 @@
+{
+  "schema_version": "1.0",
+  "status": "curated-initial-release",
+  "scope": {
+    "region": "Karnataka, India",
+    "crop": "tomato"
+  },
+  "reviewed_on": "2026-11-09",
+  "entries": [
+    {
+      "id": "tomato-crop-profile-001",
+      "crop": "tomato",
+      "category": "crop_information",
+      "topic": "general cultivation profile",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "cultivation",
+        "soil",
+        "climate",
+        "irrigation"
+      ],
+      "description_en": "ICAR-IIVR describes tomato as a warm-weather crop, with a listed climatic range of 20–30°C, well-drained loam or sandy-loam soils, and regular irrigation; it notes drip irrigation as recommended.",
+      "description_kn": null,
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "What is the crop age?",
+        "Is the field draining well after irrigation or rain?"
+      ],
+      "safe_initial_actions": [
+        "Observe soil moisture and drainage before changing irrigation.",
+        "Record the crop stage and recent weather."
+      ],
+      "expert_referral_conditions": [
+        "Seek local advice when plants are rapidly declining or many plants are affected."
+      ],
+      "region_applicability": "India; verify local suitability in Karnataka",
+      "growth_stage_applicability": "general",
+      "source": {
+        "title": "Tomato - Comprehensive cultivation guide",
+        "organization": "ICAR-Indian Institute of Vegetable Research",
+        "url": "https://icariivr.org.in/tomato/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-09",
+      "evidence_status": "official_educational_information",
+      "limitations": "General information is not a field-specific recommendation. No pesticide dose is provided."
+    },
+    {
+      "id": "tomato-leaf-yellowing-001",
+      "crop": "tomato",
+      "category": "symptom",
+      "topic": "yellowing leaves",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "yellow",
+        "yellowing",
+        "leaves",
+        "leaf",
+        "ಹಳದಿ",
+        "ಎಲೆ"
+      ],
+      "description_en": "Yellowing leaves are a symptom, not a confirmed diagnosis. Several explanations may need to be distinguished using plant position, watering, wilting, spots, insects, crop age, and root or stem observations.",
+      "description_kn": null,
+      "possible_causes": [
+        "nutrient-related stress",
+        "water or drainage stress",
+        "root or wilt problems",
+        "virus or pest-associated problems"
+      ],
+      "distinguishing_signs": [
+        "Lower versus upper leaves affected",
+        "Uniform yellowing versus yellowing between veins",
+        "Wilting, spots, curling, visible insects, or persistently wet soil"
+      ],
+      "follow_up_questions": [
+        "Are lower leaves or upper leaves affected?",
+        "Are all leaves yellow, or only the areas between veins?",
+        "Is the plant wilting?",
+        "Is the soil continuously wet?",
+        "Are there visible insects or spots?",
+        "How old is the crop?"
+      ],
+      "safe_initial_actions": [
+        "Do not apply a pesticide or nutrient dose based on yellowing alone.",
+        "Inspect several plants and note whether the pattern is spreading.",
+        "Check drainage and soil moisture without disturbing roots."
+      ],
+      "expert_referral_conditions": [
+        "Rapid wilting, widespread symptoms, stem discoloration, or substantial crop loss require a qualified plant-health expert."
+      ],
+      "region_applicability": "Karnataka; symptom interpretation requires local confirmation",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Web applications on horticultural crops",
+        "organization": "ICAR-Indian Institute of Horticultural Research",
+        "url": "https://webapps.iihr.res.in/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-09",
+      "evidence_status": "cautious_triage_pending_field_confirmation",
+      "limitations": "This record deliberately does not diagnose the cause of yellowing. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-major-disease-categories-001",
+      "crop": "tomato",
+      "category": "disease_reference",
+      "topic": "major diseases reported for tomato",
+      "keywords": [
+        "tomato",
+        "disease",
+        "early blight",
+        "late blight",
+        "bacterial wilt",
+        "leaf curl",
+        "fusarium wilt"
+      ],
+      "description_en": "ICAR-IIVR lists late blight, early blight, bacterial wilt, and leaf curl virus among major tomato diseases. This list is a reference for follow-up questioning, not a diagnosis.",
+      "description_kn": null,
+      "possible_causes": [],
+      "distinguishing_signs": [
+        "Disease-specific confirmation requires field examination and, where needed, plant-health diagnosis."
+      ],
+      "follow_up_questions": [
+        "Are there leaf spots or concentric rings?",
+        "Is there rapid wilting?",
+        "Are leaves curling with visible whiteflies?"
+      ],
+      "safe_initial_actions": [
+        "Separate observation of symptoms from disease naming.",
+        "Avoid moving visibly affected plant material to another area."
+      ],
+      "expert_referral_conditions": [
+        "Request plant-health-clinic or agricultural-officer assessment before disease-specific treatment."
+      ],
+      "region_applicability": "India; Karnataka relevance requires local confirmation",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Tomato - Comprehensive cultivation guide",
+        "organization": "ICAR-Indian Institute of Vegetable Research",
+        "url": "https://icariivr.org.in/tomato/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-09",
+      "evidence_status": "official_list_not_diagnostic",
+      "limitations": "No universal chemical control or pesticide dose is included."
+    },
+    {
+      "id": "tomato-major-pest-categories-001",
+      "crop": "tomato",
+      "category": "pest_reference",
+      "topic": "major pests reported for tomato",
+      "keywords": [
+        "tomato",
+        "pest",
+        "whitefly",
+        "aphid",
+        "thrips",
+        "fruit borer",
+        "leaf miner",
+        "insect"
+      ],
+      "description_en": "ICAR-IIVR lists fruit borer, whitefly, aphids, thrips, and leaf miner among major tomato pests. A visible insect should be identified before any control decision.",
+      "description_kn": null,
+      "possible_causes": [],
+      "distinguishing_signs": [
+        "Look for insects, feeding damage, mines, frass, or fruit entry holes; these observations do not by themselves confirm species."
+      ],
+      "follow_up_questions": [
+        "Where are the insects or damage located?",
+        "Are there mines in leaves or holes in fruit?",
+        "Are insects visible on the underside of leaves?"
+      ],
+      "safe_initial_actions": [
+        "Inspect multiple plants and record the affected plant part.",
+        "Do not use a pesticide or dose from this assistant without a current local recommendation."
+      ],
+      "expert_referral_conditions": [
+        "Escalate when damage is spreading quickly or fruit is being lost."
+      ],
+      "region_applicability": "India; Karnataka relevance requires local confirmation",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Tomato - Comprehensive cultivation guide",
+        "organization": "ICAR-Indian Institute of Vegetable Research",
+        "url": "https://icariivr.org.in/tomato/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-09",
+      "evidence_status": "official_list_not_diagnostic",
+      "limitations": "No pesticide recommendation or dosage is included."
+    },
+    {
+      "id": "karnataka-referral-001",
+      "crop": "tomato",
+      "category": "expert_referral",
+      "topic": "local plant-health support",
+      "keywords": [
+        "expert",
+        "officer",
+        "clinic",
+        "ಸಲಹೆ",
+        "ತಜ್ಞ"
+      ],
+      "description_en": "UAS Bengaluru's Plant Pathology department describes farmer-facing disease diagnostic services, and its Bengaluru Rural KVK lists a Plant Health Clinic and soil and water testing laboratory.",
+      "description_kn": null,
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which Karnataka district is the field in?",
+        "Can you provide clear photos of the whole plant and affected part?"
+      ],
+      "safe_initial_actions": [
+        "Take dated photos and note crop age, recent rain, irrigation, and spread pattern before seeking advice."
+      ],
+      "expert_referral_conditions": [
+        "Use a local plant-health clinic or agricultural officer for confirmation when symptoms are severe or unclear."
+      ],
+      "region_applicability": "Karnataka",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Department of Plant Pathology / KVK Bengaluru Rural",
+        "organization": "University of Agricultural Sciences, Bengaluru",
+        "url": "https://www.uasbangalore.edu.in/en/department-of-plant-pathology/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-09",
+      "evidence_status": "official_referral_information",
+      "limitations": "The assistant does not provide a diagnosis or replace local expert assessment."
+    },
+    {
+      "id": "tomato-waterlogging-001",
+      "crop": "tomato",
+      "category": "environmental_stress",
+      "topic": "waterlogging and drainage observations",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "standing water",
+        "waterlogging",
+        "poor drainage",
+        "wet soil",
+        "water stagnation",
+        "drainage",
+        "ನೀರು ನಿಂತಿದೆ",
+        "ಒದ್ದೆ ಮಣ್ಣು"
+      ],
+      "description_en": "Standing water and poor drainage are observations that need to be separated from disease. The inspected ICAR-IIHR crop-production page states that well-drained soil is preferred and that waterlogging increases bacterial-wilt incidence.",
+      "description_kn": null,
+      "possible_causes": [
+        "waterlogging or poor drainage",
+        "a root or wilt problem requiring expert confirmation"
+      ],
+      "distinguishing_signs": [
+        "Standing water or persistently wet soil",
+        "Low-lying or poorly drained area",
+        "Wilting despite wet soil"
+      ],
+      "follow_up_questions": [
+        "How long has water been standing?",
+        "Is the affected area low-lying or poorly drained?",
+        "Did this follow irrigation or recent rainfall?",
+        "Are plants wilting even though the soil is wet?",
+        "Are other plants in the same area affected?"
+      ],
+      "safe_initial_actions": [
+        "Observe and record standing water, drainage, recent irrigation, and rainfall.",
+        "Do not automatically diagnose bacterial wilt from wet soil or wilting."
+      ],
+      "expert_referral_conditions": [
+        "Standing water persists, wilting is rapid, or several plants in a patch are affected."
+      ],
+      "region_applicability": "Karnataka; verify local field conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Crop Production",
+        "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru",
+        "url": "https://tomato-crop.web.app/page1.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-10",
+      "evidence_status": "partial_source_supported_triage",
+      "limitations": "The source supports drainage and waterlogging context, not a diagnosis or treatment schedule. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-water-stress-001",
+      "crop": "tomato",
+      "category": "environmental_stress",
+      "topic": "water-stress triage",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "wilting",
+        "wilt",
+        "soil is dry",
+        "dry soil",
+        "irrigated yesterday",
+        "irrigation",
+        "rainfall",
+        "ನೀರು",
+        "ಒಣಗುತ್ತಿದೆ"
+      ],
+      "description_en": "Wilting with dry soil should be investigated through irrigation method, time since irrigation or rainfall, soil moisture, crop stage, and whether symptoms are uniform or patchy. No universal irrigation schedule is provided.",
+      "description_kn": null,
+      "possible_causes": [
+        "water stress",
+        "uneven irrigation",
+        "heat or root stress requiring confirmation"
+      ],
+      "distinguishing_signs": [
+        "Dry soil at the root zone",
+        "Wilting after a long interval without irrigation or rain",
+        "Uniform versus patchy symptoms"
+      ],
+      "follow_up_questions": [
+        "What irrigation method is used?",
+        "When was the last irrigation or rainfall?",
+        "What is the crop growth stage?",
+        "Is the soil dry at root depth?",
+        "Are symptoms uniform or patchy?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture and recent rainfall before changing irrigation.",
+        "Record crop stage and whether the pattern is uniform or patchy."
+      ],
+      "expert_referral_conditions": [
+        "Wilting persists despite adequate moisture, the pattern is sharply patchy, or plants decline rapidly."
+      ],
+      "region_applicability": "Karnataka; verify local field conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Crop Production",
+        "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru",
+        "url": "https://tomato-crop.web.app/page1.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-10",
+      "evidence_status": "partial_source_supported_triage",
+      "limitations": "The source supports irrigation-context questions, not a universal schedule or diagnosis. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-whitefly-001",
+      "crop": "tomato",
+      "category": "pest_observation",
+      "topic": "whitefly observations",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "whitefly",
+        "tiny white insects",
+        "small white insects",
+        "leaf underside",
+        "insects under leaves",
+        "ಬಿಳಿ ಕೀಟ"
+      ],
+      "description_en": "Whitefly is an observation topic only. ICAR-IIHR and ICAR-IIVR list whitefly among tomato pests, but leaves that are yellow or curled do not confirm whiteflies.",
+      "description_kn": null,
+      "possible_causes": [
+        "visible whitefly-like insects",
+        "other insects or a non-pest cause requiring confirmation"
+      ],
+      "distinguishing_signs": [
+        "Small insects visible on leaf undersides",
+        "Young leaves curling",
+        "Problem present on multiple plants",
+        "Other visible symptoms"
+      ],
+      "follow_up_questions": [
+        "Are small insects visible on leaf undersides?",
+        "Are young leaves curling?",
+        "Is the problem present on multiple plants?",
+        "Are there other visible symptoms?"
+      ],
+      "safe_initial_actions": [
+        "Inspect several plants and record where insects and symptoms are visible.",
+        "Do not treat yellowing or curling as confirmation of whiteflies."
+      ],
+      "expert_referral_conditions": [
+        "The problem is widespread, plants are declining, or a pest-control decision is being considered."
+      ],
+      "region_applicability": "India; verify local Karnataka conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Tomato Cultivation — Crop Management & Diagnostic Solutions",
+        "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru",
+        "url": "https://tomato-crop.web.app/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-10",
+      "evidence_status": "partial_source_supported_observation",
+      "limitations": "The source supports whitefly as a major pest category, not this complete identification guide. No pesticide product or dose is provided. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-fruit-borer-001",
+      "crop": "tomato",
+      "category": "pest_observation",
+      "topic": "fruit-borer observations",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "fruit borer",
+        "fruit damaged",
+        "damaged fruit",
+        "entry hole",
+        "entry holes",
+        "frass",
+        "ಹಣ್ಣು ಹಾನಿ"
+      ],
+      "description_en": "Fruit damage should be inspected for entry holes and frass before any pest identification. ICAR-IIHR and ICAR-IIVR list fruit borer among tomato pests, but fruit damage alone does not confirm a fruit borer.",
+      "description_kn": null,
+      "possible_causes": [
+        "fruit-borer-like damage",
+        "mechanical injury, fruit rot, cracking, or another cause requiring confirmation"
+      ],
+      "distinguishing_signs": [
+        "Visible entry holes",
+        "Frass near the damaged area",
+        "Fruit growth stage affected",
+        "Number of fruits showing damage"
+      ],
+      "follow_up_questions": [
+        "Are there visible entry holes?",
+        "Is there frass near the damaged area?",
+        "Which fruit growth stage is affected?",
+        "How many fruits show damage?"
+      ],
+      "safe_initial_actions": [
+        "Inspect and photograph affected fruit and record the extent of damage.",
+        "Do not claim confirmed pest identification from fruit damage alone."
+      ],
+      "expert_referral_conditions": [
+        "Damage is spreading, marketable fruit loss is significant, or chemical control is being considered."
+      ],
+      "region_applicability": "India; verify local Karnataka conditions",
+      "growth_stage_applicability": "fruit development to harvest",
+      "source": {
+        "title": "Tomato - Comprehensive cultivation guide",
+        "organization": "ICAR-Indian Institute of Vegetable Research",
+        "url": "https://icariivr.org.in/tomato/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-10",
+      "evidence_status": "partial_source_supported_observation",
+      "limitations": "The source supports fruit borer as a major pest category, not confirmation from symptoms. No chemical control is provided. Kannada description is pending verified review."
+    },
+    {
+      "id": "tomato-leaf-miner-001",
+      "crop": "tomato",
+      "category": "pest_observation",
+      "topic": "leaf-miner observations",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "leaf miner",
+        "leaf-miner",
+        "serpentine trails",
+        "winding trails",
+        "mines in leaves",
+        "ಎಲೆಗಳಲ್ಲಿ ಗೆರೆ"
+      ],
+      "description_en": "Leaf-miner observation requires winding or serpentine trails inside leaves. ICAR-IIHR and ICAR-IIVR list leaf miner or serpentine leaf miner among tomato pests, but ordinary leaf spots or yellowing do not identify leaf miner.",
+      "description_kn": null,
+      "possible_causes": [
+        "leaf-miner-like trails",
+        "ordinary leaf spots, nutrient injury, or physical damage requiring confirmation"
+      ],
+      "distinguishing_signs": [
+        "Winding or serpentine trails visible inside leaves",
+        "Several leaves affected",
+        "Damage spreading",
+        "Crop stage affected"
+      ],
+      "follow_up_questions": [
+        "Are winding or serpentine trails visible inside leaves?",
+        "Are several leaves affected?",
+        "Is the damage spreading?",
+        "Which crop stage is affected?"
+      ],
+      "safe_initial_actions": [
+        "Photograph the trail pattern and inspect multiple plants.",
+        "Do not identify leaf miner solely from ordinary leaf spots or yellowing."
+      ],
+      "expert_referral_conditions": [
+        "Damage is increasing, multiple plants are affected, or a control decision is required."
+      ],
+      "region_applicability": "India; verify local Karnataka conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Tomato Cultivation — Crop Management & Diagnostic Solutions",
+        "organization": "ICAR-Indian Institute of Horticultural Research, Bengaluru",
+        "url": "https://tomato-crop.web.app/",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-10",
+      "evidence_status": "partial_source_supported_observation",
+      "limitations": "The source supports leaf miner as a pest category, not symptom-only confirmation. No chemical control is provided. Kannada description is pending verified review."
+    },
+    {
+      "id": "rice-crop-profile-001",
+      "crop": "rice",
+      "category": "crop_information",
+      "topic": "rice crop context",
+      "keywords": [
+        "rice",
+        "paddy",
+        "rice crop",
+        "ಭತ್ತ",
+        "ಭತ್ತದ ಬೆಳೆ",
+        "crop age",
+        "water"
+      ],
+      "description_en": "Rice (Oryza sativa) is described by ICAR-CCARI as a crop grown in different water and land situations. Growing conditions and crop stage should be recorded before interpreting a symptom.",
+      "description_kn": null,
+      "possible_causes": [],
+      "distinguishing_signs": [
+        "Crop stage",
+        "Water condition",
+        "Field-wide or patchy spread",
+        "Recent fertilizer history"
+      ],
+      "follow_up_questions": [
+        "How old is the rice crop?",
+        "Is the field continuously wet, temporarily wet, or dry?",
+        "Is the yellowing uniform or patchy?",
+        "What fertilizer was recently applied?"
+      ],
+      "safe_initial_actions": [
+        "Record crop age, water condition, recent fertilizer history and whether the pattern is field-wide or patchy.",
+        "Inspect several plants and photograph the affected leaves."
+      ],
+      "expert_referral_conditions": [
+        "Symptoms are widespread, rapidly worsening, or the cause remains unclear."
+      ],
+      "region_applicability": "India; CCARI source is Goa-specific and Karnataka suitability requires local confirmation",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Crop: Rice",
+        "organization": "ICAR-Central Coastal Agricultural Research Institute",
+        "url": "https://ccari.res.in/dss/rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_information",
+      "limitations": "General crop context only; not a Karnataka field prescription and no chemical recommendation is included."
+    },
+    {
+      "id": "rice-leaf-yellowing-001",
+      "crop": "rice",
+      "category": "symptom",
+      "topic": "yellowing rice leaves",
+      "keywords": [
+        "rice",
+        "paddy",
+        "ಭತ್ತ",
+        "yellow",
+        "yellowing",
+        "leaves",
+        "ಎಲೆ",
+        "ಹಳದಿ",
+        "stunted",
+        "tillering"
+      ],
+      "description_en": "Yellowing in rice is an observation, not a confirmed nitrogen deficiency. KAU describes nitrogen-deficiency patterns that may begin on older leaves and may include yellow-green leaves and stunted growth, while TNAU describes nitrogen as important for green vegetative development. Other water, nutrient, pest or disease causes remain possible.",
+      "description_kn": null,
+      "possible_causes": [
+        "nutrient-related stress requiring soil or plant assessment",
+        "water or growing-condition stress",
+        "pest or disease damage",
+        "another cause requiring local confirmation"
+      ],
+      "distinguishing_signs": [
+        "Older versus younger leaves",
+        "Uniform versus patchy yellowing",
+        "Leaf spots or damaged leaves",
+        "Stunted growth",
+        "Crop stage such as tillering or panicle initiation",
+        "Recent fertilizer and water conditions"
+      ],
+      "follow_up_questions": [
+        "Are older leaves yellow first, or are younger leaves affected?",
+        "Is yellowing uniform across the field or patchy?",
+        "How old is the crop and is it tillering or near panicle initiation?",
+        "Are there spots, insects or damaged leaves?",
+        "What fertilizer was applied recently?",
+        "What is the current water condition?"
+      ],
+      "safe_initial_actions": [
+        "Inspect several plants and record whether symptoms begin on older or younger leaves.",
+        "Record crop age, water condition, fertilizer history and field spread.",
+        "Do not assume nitrogen deficiency or apply a fertilizer dose from yellowing alone."
+      ],
+      "expert_referral_conditions": [
+        "Yellowing is widespread, plants are stunted or declining, or a nutrient or chemical decision is being considered."
+      ],
+      "region_applicability": "India; verify Karnataka conditions with a local agronomist",
+      "growth_stage_applicability": "especially tillering and panicle initiation, but symptom interpretation is context-dependent",
+      "source": {
+        "title": "Nitrogen deficiency symptoms in rice",
+        "organization": "Kerala Agricultural University, KAU Agri-Infotech Portal",
+        "url": "https://www.celkau.in/crops/cereals/rice/deficiency.php",
+        "publication_date": null
+      },
+      "supporting_sources": [
+        {
+          "title": "Nutrient Management",
+          "organization": "Tamil Nadu Agricultural University",
+          "url": "https://agritech.tnau.ac.in/expert_system/paddy/nutrientmanagement.html"
+        }
+      ],
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "partial_source_supported_triage",
+      "limitations": "The sources support symptom distinctions and nutrient context, not a diagnosis or universal fertilizer prescription. Kannada guidance requires native-speaker and agricultural-expert review."
+    },
+    {
+      "id": "tomato-early-blight-observation-001",
+      "crop": "tomato",
+      "category": "disease_observation",
+      "topic": "early-blight-like leaf spots",
+      "keywords": [
+        "tomato",
+        "early blight",
+        "brown spots",
+        "concentric rings",
+        "bullseye",
+        "yellow halo",
+        "ಕಂದು ಕಲೆ"
+      ],
+      "description_en": "TNAU and KAU describe early-blight-like symptoms as brown or dark leaf lesions that can enlarge with concentric rings; a yellow surrounding area may occur. These observations do not confirm early blight in an individual field.",
+      "possible_causes": [
+        "early-blight-like disease",
+        "other leaf-spot diseases or stress"
+      ],
+      "distinguishing_signs": [
+        "Older foliage",
+        "Concentric rings",
+        "Yellow margin",
+        "Stem or fruit lesions",
+        "Spread pattern"
+      ],
+      "follow_up_questions": [
+        "Are the spots circular with concentric rings?",
+        "Did they begin on older leaves?",
+        "Are stems or fruits also affected?",
+        "Is the problem spreading after wet weather?"
+      ],
+      "safe_initial_actions": [
+        "Photograph several affected leaves and record whether rings and yellow margins are present.",
+        "Remove fallen diseased material from observation areas without making a chemical decision."
+      ],
+      "expert_referral_conditions": [
+        "Rapid spread, fruit involvement, or a disease-specific treatment decision is being considered."
+      ],
+      "region_applicability": "India; verify Karnataka field conditions",
+      "growth_stage_applicability": "vegetative to fruiting",
+      "source": {
+        "title": "Early blight in tomato",
+        "organization": "Kerala Agricultural University, KAU Agri-Infotech Portal",
+        "url": "https://celkau.in/ecropdoctor/vegetables/tomato/earlyblight.php",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_observation",
+      "limitations": "Only symptom observations were integrated; chemical tables and dosages were excluded. Expert review is pending."
+    },
+    {
+      "id": "tomato-late-blight-observation-001",
+      "crop": "tomato",
+      "category": "disease_observation",
+      "topic": "late-blight-like water-soaked lesions",
+      "keywords": [
+        "tomato",
+        "late blight",
+        "water soaked",
+        "greenish black",
+        "humid",
+        "downy",
+        "ತೇವ"
+      ],
+      "description_en": "TNAU describes late-blight-like lesions as irregular pale or greenish water-soaked areas that can enlarge rapidly in moist conditions; fruit may also be affected. This is not a confirmed diagnosis.",
+      "possible_causes": [
+        "late-blight-like disease",
+        "other moisture-associated damage"
+      ],
+      "distinguishing_signs": [
+        "Irregular water-soaked patches",
+        "Rapid enlargement",
+        "Moist or cloudy weather",
+        "Underside growth near lesions",
+        "Fruit involvement"
+      ],
+      "follow_up_questions": [
+        "Are the patches water-soaked and irregular?",
+        "How quickly are they enlarging?",
+        "Has the weather been wet, cloudy or humid?",
+        "Are fruits affected?"
+      ],
+      "safe_initial_actions": [
+        "Record weather, irrigation and rate of spread; photograph both leaf surfaces.",
+        "Seek expert assessment before any disease-specific treatment."
+      ],
+      "expert_referral_conditions": [
+        "Rapid spread, widespread foliage injury, fruit involvement, or uncertainty about a disease-control decision."
+      ],
+      "region_applicability": "India; verify Karnataka field conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "IPM Schedule for Vegetables — Tomato",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/horticulture/pdf/tech_bulletin/national/IPM-Schedule-for-vegetables.pdf",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_observation",
+      "limitations": "No chemical control instructions were imported. Expert review is pending."
+    },
+    {
+      "id": "tomato-damping-off-observation-001",
+      "crop": "tomato",
+      "category": "disease_observation",
+      "topic": "damping-off seedlings",
+      "keywords": [
+        "tomato",
+        "damping off",
+        "seedling",
+        "nursery",
+        "collapse",
+        "collar",
+        "ಸಸಿ"
+      ],
+      "description_en": "TNAU describes damping-off as a nursery problem with pre-emergence seedling death or soft, water-soaked tissue near the collar followed by seedling collapse. These observations do not confirm the cause without expert assessment.",
+      "possible_causes": [
+        "damping-off-like seedling problem",
+        "other nursery or moisture-related injury"
+      ],
+      "distinguishing_signs": [
+        "Nursery stage",
+        "Pre-emergence loss",
+        "Soft tissue at soil line",
+        "Seedling toppling",
+        "Patchy nursery spread"
+      ],
+      "follow_up_questions": [
+        "Are the plants still in the nursery?",
+        "Did seedlings die before emerging or collapse after emergence?",
+        "Is the tissue soft and water-soaked near the soil line?",
+        "Is the nursery overly wet or poorly ventilated?"
+      ],
+      "safe_initial_actions": [
+        "Record nursery stage, watering, drainage and the appearance at the soil line.",
+        "Separate affected observations from healthy seedlings and seek local nursery guidance."
+      ],
+      "expert_referral_conditions": [
+        "Loss is spreading through the nursery or replanting decisions are needed."
+      ],
+      "region_applicability": "India; verify local nursery conditions",
+      "growth_stage_applicability": "seedling",
+      "source": {
+        "title": "Organic Farming — Disease Management of Horticultural Crops",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_hortidiseases.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_observation",
+      "limitations": "Treatment instructions were excluded. Expert review is pending."
+    },
+    {
+      "id": "tomato-bacterial-wilt-observation-001",
+      "crop": "tomato",
+      "category": "disease_observation",
+      "topic": "rapid wilt with possible vascular signs",
+      "keywords": [
+        "tomato",
+        "bacterial wilt",
+        "rapid wilting",
+        "vascular",
+        "ooze",
+        "ಬಾಡುವುದು"
+      ],
+      "description_en": "TNAU describes bacterial-wilt-like observations including rapid wilting, possible yellowing or stunting, vascular discoloration and bacterial ooze from a cut stem. These signs require expert confirmation and are not a diagnosis by the assistant.",
+      "possible_causes": [
+        "bacterial-wilt-like condition",
+        "other wilt or root problems"
+      ],
+      "distinguishing_signs": [
+        "Rapid or complete wilt",
+        "Lower leaves drooping",
+        "Brown vascular tissue",
+        "Ooze observation only when assessed safely by an expert"
+      ],
+      "follow_up_questions": [
+        "How quickly did wilting develop?",
+        "Are multiple plants in a patch affected?",
+        "Is the soil wet or dry?",
+        "Are there stem discoloration observations?"
+      ],
+      "safe_initial_actions": [
+        "Record patch pattern, crop stage, soil moisture and rate of decline.",
+        "Do not cut or move symptomatic plants unnecessarily; request local plant-health assessment."
+      ],
+      "expert_referral_conditions": [
+        "Rapid or widespread wilting, suspected vascular symptoms, or any treatment decision."
+      ],
+      "region_applicability": "India; verify Karnataka field conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Organic Farming — Tomato Diseases",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/org_farm/orgfarm_tomato_diseases.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_observation",
+      "limitations": "No diagnostic test or chemical recommendation is provided. Expert review is mandatory."
+    },
+    {
+      "id": "potato-leaf-spot-001",
+      "crop": "potato",
+      "category": "symptom",
+      "topic": "potato leaf spots and yellowing",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "brown spots",
+        "leaf spots",
+        "yellowing",
+        "wilting"
+      ],
+      "description_en": "Potato leaf spots, yellowing and wilting can have multiple causes. TNAU describes disease and rot symptoms affecting leaves, stems and tubers; the assistant records the observation and asks for plant-part and spread details rather than diagnosing.",
+      "possible_causes": [
+        "leaf-spot or wilt-like disease",
+        "tuber or stem problem",
+        "water, nutrient or pest stress"
+      ],
+      "distinguishing_signs": [
+        "Leaf versus stem versus tuber involvement",
+        "Yellowing and wilt pattern",
+        "Soft rot or odor in tubers",
+        "Patch spread"
+      ],
+      "follow_up_questions": [
+        "Are spots on leaves, stems or tubers?",
+        "Are leaves rolling, yellowing or wilting?",
+        "Is the problem patchy or field-wide?",
+        "Are tubers soft, wet or odorous?"
+      ],
+      "safe_initial_actions": [
+        "Inspect multiple plants and record the affected plant part and spread.",
+        "Photograph symptoms and avoid making a chemical decision from leaf spots alone."
+      ],
+      "expert_referral_conditions": [
+        "Rapid wilt, tuber rot, widespread loss or treatment decisions."
+      ],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Potato disease information",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/crop_protection/potato_phdiseases_1.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_triage",
+      "limitations": "No pesticide or fertilizer instructions are exposed. Expert review is pending."
+    },
+    {
+      "id": "maize-leaf-yellowing-001",
+      "crop": "maize",
+      "category": "symptom",
+      "topic": "maize yellowing and leaf spots",
+      "keywords": [
+        "maize",
+        "corn",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "yellowing",
+        "leaf spots",
+        "drying",
+        "stunted"
+      ],
+      "description_en": "Maize yellowing, drying or leaf spots require separation of nutrient, water, pest and disease possibilities. TNAU describes maize leaf disease patterns including chlorotic spots and elongated lesions; these observations are not a diagnosis.",
+      "possible_causes": [
+        "leaf-disease-like symptoms",
+        "nutrient or water stress",
+        "pest damage"
+      ],
+      "distinguishing_signs": [
+        "Small chlorotic spots versus elongated lesions",
+        "Older versus younger leaves",
+        "Uniform versus patchy spread",
+        "Stunting or drying tips"
+      ],
+      "follow_up_questions": [
+        "Are symptoms spots, bands or tip drying?",
+        "Which leaves are affected first?",
+        "Is the crop stunted?",
+        "What are the water and fertilizer conditions?"
+      ],
+      "safe_initial_actions": [
+        "Record crop stage, affected plant part and spread across the field.",
+        "Photograph representative leaves and seek local advice before treatment changes."
+      ],
+      "expert_referral_conditions": [
+        "Rapid field-wide spread, severe stunting or treatment decisions."
+      ],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "all stages",
+      "source": {
+        "title": "Organic Farming — Agricultural Crop Diseases",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/org_farm/orgfarm_agridiseases.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_triage",
+      "limitations": "No dosage or chemical recommendation is exposed. Expert review is pending."
+    },
+    {
+      "id": "chilli-leaf-curl-001",
+      "crop": "chilli",
+      "category": "symptom",
+      "topic": "chilli leaf curling and stunting",
+      "keywords": [
+        "chilli",
+        "chili",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "leaf curl",
+        "curling",
+        "crinkling",
+        "stunted",
+        "yellowing"
+      ],
+      "description_en": "Chilli leaf curling, crinkling, yellowing and stunting may be associated with viral or pest-related problems. TNAU describes these as observations with multiple possible causes; the assistant does not confirm a virus or pest from leaf curl alone.",
+      "possible_causes": [
+        "virus-like leaf-curl symptoms",
+        "thrips, mites or other pest damage",
+        "water or nutrient stress"
+      ],
+      "distinguishing_signs": [
+        "Upward or downward curl",
+        "Crinkling and leaf size reduction",
+        "Visible insects",
+        "Flower-bud drop",
+        "Mottling or yellowing",
+        "Field spread"
+      ],
+      "follow_up_questions": [
+        "Is the curl upward or downward?",
+        "Are leaves crinkled or smaller than normal?",
+        "Are insects visible?",
+        "Are flower buds dropping?",
+        "Is there mottling or yellowing?"
+      ],
+      "safe_initial_actions": [
+        "Inspect leaf undersides and several plants; record curl direction and spread.",
+        "Do not treat leaf curl as confirmed virus or choose a pesticide without expert advice."
+      ],
+      "expert_referral_conditions": [
+        "Rapid spread, severe stunting, flower loss or a treatment decision."
+      ],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "vegetative to flowering",
+      "source": {
+        "title": "Chilli viral diseases and leaf curl",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/crop_protection/chilli_diseases_7.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "evidence_status": "official_educational_triage",
+      "limitations": "Chemical controls from the page are excluded. Expert and Kannada review are pending."
+    },
+    {
+      "id": "tomato-cultivation-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "cultivation",
+      "topic": "growing the crop",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "cultivation",
+        "growing the crop"
+      ],
+      "description_en": "Source-backed guidance for growing the crop. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ growing the crop ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use well-drained soil and a locally suitable variety.",
+        "Raise healthy seedlings; the cited TNAU page describes transplanting seedlings after nursery raising.",
+        "Transplant carefully, keep moisture reasonably even, keep weeds down and support plants when needed.",
+        "The cited TNAU guidance describes irrigation after planting and at later intervals; adjust timing for soil and weather.",
+        "Harvest when fruits reach the maturity stage required by the market."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use well-drained soil and a locally suitable variety.",
+        "Raise healthy seedlings; the cited TNAU page describes transplanting seedlings after nursery raising.",
+        "Transplant carefully, keep moisture reasonably even, keep weeds down and support plants when needed.",
+        "The cited TNAU guidance describes irrigation after planting and at later intervals; adjust timing for soil and weather.",
+        "Harvest when fruits reach the maturity stage required by the market."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-seed_selection-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "seed_selection",
+      "topic": "seed or planting material selection",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "seed selection",
+        "seed or planting material selection"
+      ],
+      "description_en": "Source-backed general guidance for seed or planting material selection in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ seed or planting material selection ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-soil-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "soil",
+      "topic": "soil preparation",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "soil",
+        "soil preparation"
+      ],
+      "description_en": "Source-backed general guidance for soil preparation in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ soil preparation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-planting-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "planting",
+      "topic": "planting and propagation",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "planting",
+        "planting and propagation"
+      ],
+      "description_en": "Source-backed general guidance for planting and propagation in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ planting and propagation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-irrigation-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "irrigation",
+      "topic": "irrigation",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "irrigation",
+        "irrigation"
+      ],
+      "description_en": "Source-backed guidance for irrigation. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ irrigation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "The cited TNAU material describes irrigation after planting and later intervals; do not copy an interval without checking soil and weather.",
+        "Avoid prolonged waterlogging and avoid a dry period followed by sudden heavy irrigation.",
+        "Adjust irrigation to the variety, soil, season and local water availability."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "The cited TNAU material describes irrigation after planting and later intervals; do not copy an interval without checking soil and weather.",
+        "Avoid prolonged waterlogging and avoid a dry period followed by sudden heavy irrigation.",
+        "Adjust irrigation to the variety, soil, season and local water availability."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-maintenance-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "maintenance",
+      "topic": "crop maintenance",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "maintenance",
+        "crop maintenance"
+      ],
+      "description_en": "Source-backed general guidance for crop maintenance in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ crop maintenance ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-productivity-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "productivity",
+      "topic": "improving yield",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "productivity",
+        "improving yield"
+      ],
+      "description_en": "Source-backed general guidance for improving yield in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ improving yield ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "tomato-harvest-001",
+      "crop": "tomato",
+      "category": "cultivation_guidance",
+      "intent": "harvest",
+      "topic": "harvesting",
+      "keywords": [
+        "tomato",
+        "ಟೊಮೆಟೋ",
+        "harvest",
+        "harvesting"
+      ],
+      "description_en": "Source-backed general guidance for harvesting in tomato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಟೊಮೆಟೋ harvesting ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which tomato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Tomato crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/tomato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-cultivation-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "cultivation",
+      "topic": "growing the crop",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "cultivation",
+        "growing the crop"
+      ],
+      "description_en": "Source-backed guidance for growing the crop. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ growing the crop ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Choose a season- and location-suitable variety.",
+        "Prepare and level the field and manage the nursery before transplanting.",
+        "Use shallow transplanting and manage water by crop stage.",
+        "Protect panicle initiation, booting, heading and flowering from moisture stress.",
+        "Drain before harvest according to local crop duration and field conditions."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Choose a season- and location-suitable variety.",
+        "Prepare and level the field and manage the nursery before transplanting.",
+        "Use shallow transplanting and manage water by crop stage.",
+        "Protect panicle initiation, booting, heading and flowering from moisture stress.",
+        "Drain before harvest according to local crop duration and field conditions."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-seed_selection-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "seed_selection",
+      "topic": "seed or planting material selection",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "seed selection",
+        "seed or planting material selection"
+      ],
+      "description_en": "Source-backed general guidance for seed or planting material selection in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ seed or planting material selection ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-soil-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "soil",
+      "topic": "soil preparation",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "soil",
+        "soil preparation"
+      ],
+      "description_en": "Source-backed general guidance for soil preparation in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ soil preparation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-planting-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "planting",
+      "topic": "planting and propagation",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "planting",
+        "planting and propagation"
+      ],
+      "description_en": "Source-backed general guidance for planting and propagation in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ planting and propagation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-irrigation-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "irrigation",
+      "topic": "irrigation",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "irrigation",
+        "irrigation"
+      ],
+      "description_en": "Source-backed general guidance for irrigation in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ irrigation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-maintenance-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "maintenance",
+      "topic": "crop maintenance",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "maintenance",
+        "crop maintenance"
+      ],
+      "description_en": "Source-backed general guidance for crop maintenance in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ crop maintenance ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-productivity-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "productivity",
+      "topic": "improving yield",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "productivity",
+        "improving yield"
+      ],
+      "description_en": "Source-backed general guidance for improving yield in rice. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ improving yield ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "rice-harvest-001",
+      "crop": "rice",
+      "category": "cultivation_guidance",
+      "intent": "harvest",
+      "topic": "harvesting",
+      "keywords": [
+        "rice",
+        "ಭತ್ತ",
+        "harvest",
+        "harvesting"
+      ],
+      "description_en": "Source-backed guidance for harvesting. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಭತ್ತ harvesting ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use crop duration and maturity signs together rather than a calendar date alone.",
+        "Drain the field 7–10 days before expected harvest only where that local practice fits the field and crop.",
+        "Harvest at the locally recommended maturity and dry and store grain safely."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which rice variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use crop duration and maturity signs together rather than a calendar date alone.",
+        "Drain the field 7–10 days before expected harvest only where that local practice fits the field and crop.",
+        "Harvest at the locally recommended maturity and dry and store grain safely."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Rice irrigation management",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/agriculture/agri_irrigationmgt_cereals_rice.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-cultivation-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "cultivation",
+      "topic": "growing the crop",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "cultivation",
+        "growing the crop"
+      ],
+      "description_en": "Source-backed guidance for growing the crop. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ growing the crop ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use friable, porous and well-drained soil.",
+        "Plant healthy, well-sprouted tubers from a verified source.",
+        "Form ridges and furrows and confirm local spacing for the variety.",
+        "Irrigate after establishment and adjust later irrigation to soil and weather.",
+        "Keep the field weed-free early and earth up as locally recommended."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use friable, porous and well-drained soil.",
+        "Plant healthy, well-sprouted tubers from a verified source.",
+        "Form ridges and furrows and confirm local spacing for the variety.",
+        "Irrigate after establishment and adjust later irrigation to soil and weather.",
+        "Keep the field weed-free early and earth up as locally recommended."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-seed_selection-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "seed_selection",
+      "topic": "seed or planting material selection",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "seed selection",
+        "seed or planting material selection"
+      ],
+      "description_en": "Source-backed general guidance for seed or planting material selection in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ seed or planting material selection ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-soil-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "soil",
+      "topic": "soil preparation",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "soil",
+        "soil preparation"
+      ],
+      "description_en": "Source-backed general guidance for soil preparation in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ soil preparation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-planting-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "planting",
+      "topic": "planting and propagation",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "planting",
+        "planting and propagation"
+      ],
+      "description_en": "Source-backed general guidance for planting and propagation in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ planting and propagation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-irrigation-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "irrigation",
+      "topic": "irrigation",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "irrigation",
+        "irrigation"
+      ],
+      "description_en": "Source-backed general guidance for irrigation in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ irrigation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-maintenance-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "maintenance",
+      "topic": "crop maintenance",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "maintenance",
+        "crop maintenance"
+      ],
+      "description_en": "Source-backed general guidance for crop maintenance in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ crop maintenance ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-productivity-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "productivity",
+      "topic": "improving yield",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "productivity",
+        "improving yield"
+      ],
+      "description_en": "Source-backed general guidance for improving yield in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ improving yield ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "potato-harvest-001",
+      "crop": "potato",
+      "category": "cultivation_guidance",
+      "intent": "harvest",
+      "topic": "harvesting",
+      "keywords": [
+        "potato",
+        "ಆಲೂಗಡ್ಡೆ",
+        "harvest",
+        "harvesting"
+      ],
+      "description_en": "Source-backed general guidance for harvesting in potato. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಆಲೂಗಡ್ಡೆ harvesting ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which potato variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Potato cultivation",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/horticulture/horti_vegetables_potato.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-cultivation-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "cultivation",
+      "topic": "growing the crop",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "cultivation",
+        "growing the crop"
+      ],
+      "description_en": "Source-backed guidance for growing the crop. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ growing the crop ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Choose quality seed of a locally suitable hybrid or variety.",
+        "Prepare a well-drained seedbed and maintain a uniform stand.",
+        "Regulate irrigation because maize is sensitive to both moisture stress and excess water.",
+        "Give special attention to moisture during the critical flowering period.",
+        "Harvest when the cob and grain show the maturity signs described by the cited source."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Choose quality seed of a locally suitable hybrid or variety.",
+        "Prepare a well-drained seedbed and maintain a uniform stand.",
+        "Regulate irrigation because maize is sensitive to both moisture stress and excess water.",
+        "Give special attention to moisture during the critical flowering period.",
+        "Harvest when the cob and grain show the maturity signs described by the cited source."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-seed_selection-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "seed_selection",
+      "topic": "seed or planting material selection",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "seed selection",
+        "seed or planting material selection"
+      ],
+      "description_en": "Source-backed general guidance for seed or planting material selection in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ seed or planting material selection ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-soil-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "soil",
+      "topic": "soil preparation",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "soil",
+        "soil preparation"
+      ],
+      "description_en": "Source-backed general guidance for soil preparation in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ soil preparation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-planting-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "planting",
+      "topic": "planting and propagation",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "planting",
+        "planting and propagation"
+      ],
+      "description_en": "Source-backed general guidance for planting and propagation in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ planting and propagation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-irrigation-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "irrigation",
+      "topic": "irrigation",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "irrigation",
+        "irrigation"
+      ],
+      "description_en": "Source-backed general guidance for irrigation in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ irrigation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-maintenance-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "maintenance",
+      "topic": "crop maintenance",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "maintenance",
+        "crop maintenance"
+      ],
+      "description_en": "Source-backed general guidance for crop maintenance in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ crop maintenance ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-productivity-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "productivity",
+      "topic": "improving yield",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "productivity",
+        "improving yield"
+      ],
+      "description_en": "Source-backed general guidance for improving yield in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ improving yield ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Start with suitable planting material and a uniform stand.",
+        "Protect moisture during the crop's important growth stages.",
+        "Use soil-test-based local nutrient guidance rather than a generic dose."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "maize-harvest-001",
+      "crop": "maize",
+      "category": "cultivation_guidance",
+      "intent": "harvest",
+      "topic": "harvesting",
+      "keywords": [
+        "maize",
+        "ಮೆಕ್ಕೆಜೋಳ",
+        "harvest",
+        "harvesting"
+      ],
+      "description_en": "Source-backed general guidance for harvesting in maize. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಕ್ಕೆಜೋಳ harvesting ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which maize variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Maize crop production",
+        "organization": "TNAU",
+        "url": "https://agritech.tnau.ac.in/CropProduction/Millets/millets_maize.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-cultivation-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "cultivation",
+      "topic": "growing the crop",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "cultivation",
+        "growing the crop"
+      ],
+      "description_en": "Source-backed guidance for growing the crop. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ growing the crop ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Choose a locally suitable chilli variety and season in consultation with local recommendations.",
+        "Raise healthy nursery seedlings and transplant into a well-drained field.",
+        "Maintain suitable spacing and monitor establishment after transplanting.",
+        "Irrigate judiciously, especially during flowering and fruit development, and avoid stagnation.",
+        "Keep the field reasonably weed-free and harvest green or ripe fruits according to the market."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Choose a locally suitable chilli variety and season in consultation with local recommendations.",
+        "Raise healthy nursery seedlings and transplant into a well-drained field.",
+        "Maintain suitable spacing and monitor establishment after transplanting.",
+        "Irrigate judiciously, especially during flowering and fruit development, and avoid stagnation.",
+        "Keep the field reasonably weed-free and harvest green or ripe fruits according to the market."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-seed_selection-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "seed_selection",
+      "topic": "seed or planting material selection",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "seed selection",
+        "seed or planting material selection"
+      ],
+      "description_en": "Source-backed general guidance for seed or planting material selection in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ seed or planting material selection ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Use quality seed, tubers or healthy nursery seedlings from a reliable source.",
+        "Choose material suited to the intended local crop and market.",
+        "Do not use visibly damaged or weak planting material."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-soil-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "soil",
+      "topic": "soil preparation",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "soil",
+        "soil preparation"
+      ],
+      "description_en": "Source-backed general guidance for soil preparation in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ soil preparation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Prepare a suitable seedbed and provide drainage.",
+        "Use soil testing to guide nutrient decisions.",
+        "Use only well-decomposed organic matter where appropriate."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-planting-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "planting",
+      "topic": "planting and propagation",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "planting",
+        "planting and propagation"
+      ],
+      "description_en": "Source-backed general guidance for planting and propagation in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ planting and propagation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Raise or select healthy planting material.",
+        "Plant or transplant using locally recommended timing and spacing.",
+        "Monitor establishment after planting."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-irrigation-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "irrigation",
+      "topic": "irrigation",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "irrigation",
+        "irrigation"
+      ],
+      "description_en": "Source-backed general guidance for irrigation in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ irrigation ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Check soil moisture, rainfall and crop stage before irrigating.",
+        "Avoid both prolonged water stress and waterlogging.",
+        "Adjust irrigation timing to local soil and weather conditions."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-maintenance-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "maintenance",
+      "topic": "crop maintenance",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "maintenance",
+        "crop maintenance"
+      ],
+      "description_en": "Source-backed general guidance for crop maintenance in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ crop maintenance ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Keep the field reasonably weed-free.",
+        "Inspect crop stage, stand and moisture regularly.",
+        "Record unusual symptoms separately rather than assuming a disease."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-productivity-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "productivity",
+      "topic": "improving yield",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "productivity",
+        "improving yield"
+      ],
+      "description_en": "Source-backed guidance for improving yield. The cited institutional page supports the listed general practice; verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ improving yield ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Start with healthy planting material and a uniform stand.",
+        "Maintain suitable moisture during flowering and fruit development.",
+        "Keep weeds under control and monitor crop stage and fruit set.",
+        "Use soil-test-based local nutrient guidance; do not apply a generic fertilizer dose."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Start with healthy planting material and a uniform stand.",
+        "Maintain suitable moisture during flowering and fruit development.",
+        "Keep weeds under control and monitor crop stage and fruit set.",
+        "Use soil-test-based local nutrient guidance; do not apply a generic fertilizer dose."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    },
+    {
+      "id": "chilli-harvest-001",
+      "crop": "chilli",
+      "category": "cultivation_guidance",
+      "intent": "harvest",
+      "topic": "harvesting",
+      "keywords": [
+        "chilli",
+        "ಮೆಣಸಿನಕಾಯಿ",
+        "harvest",
+        "harvesting"
+      ],
+      "description_en": "Source-backed general guidance for harvesting in chilli. Verify variety, season, soil and water conditions locally.",
+      "description_kn": "ಮೆಣಸಿನಕಾಯಿ harvesting ಕುರಿತು ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ. ಸ್ಥಳೀಯ ಜಾತಿ, ಋತು, ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "practical_steps": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "possible_causes": [],
+      "distinguishing_signs": [],
+      "follow_up_questions": [
+        "Which chilli variety, crop stage, soil type and irrigation source apply to your field?"
+      ],
+      "safe_initial_actions": [
+        "Harvest when the crop reaches maturity suited to the intended market.",
+        "Handle produce carefully to reduce damage.",
+        "Dry, cure or store produce according to the crop and local post-harvest practice."
+      ],
+      "expert_referral_conditions": [],
+      "region_applicability": "India; verify local conditions",
+      "growth_stage_applicability": "varies by topic",
+      "source": {
+        "title": "Chilli cultivation",
+        "organization": "TNAU",
+        "url": "https://www.agritech.tnau.ac.in/ta/horticulture/horti_vegetables_chillies_ta.html",
+        "publication_date": null
+      },
+      "reviewed_on": "2026-11-24",
+      "review_status": "draft",
+      "evidence_status": "official_educational_information",
+      "limitations": "General guidance only; Kannada wording and local applicability require independent review. No pesticide or fertilizer dose is provided."
+    }
+  ]
+}

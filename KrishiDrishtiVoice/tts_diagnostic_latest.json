@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://api.vachana.ai/api/v1/tts/inference",
+  "status_code": 400,
+  "content_type": "application/json",
+  "body": {
+    "success": false,
+    "message": "Model 'timbre-2.5' is not supported. The supported models are \"timbre-v2.5\", \"timbre-v3.0\". See https://docs.gnani.ai/api/TTS/tts-inference for the current models and voices.",
+    "status_code": 400
+  },
+  "audio_bytes": 0
+}

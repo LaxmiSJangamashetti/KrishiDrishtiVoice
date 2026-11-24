@@ -1,0 +1,17 @@
+{
+  "model_version": "tomato-mobilenet-v3-small-full-exp2-epoch4",
+  "status": "experimental_mapping_only",
+  "guidance_policy": "A model class is never a confirmed diagnosis. Guidance eligibility requires an independently retrieved, reviewed knowledge record and farmer confirmation.",
+  "classes": [
+    {"id": 0, "model_label": "Tomato___Bacterial_spot", "english_name": "Bacterial spot", "kannada_name": null, "condition_type": "disease", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 1, "model_label": "Tomato___Early_blight", "english_name": "Early blight", "kannada_name": null, "condition_type": "disease", "knowledge_records": ["tomato-major-disease-categories-001"], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 2, "model_label": "Tomato___Late_blight", "english_name": "Late blight", "kannada_name": null, "condition_type": "disease", "knowledge_records": ["tomato-major-disease-categories-001"], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 3, "model_label": "Tomato___Leaf_Mold", "english_name": "Leaf mold", "kannada_name": null, "condition_type": "disease", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 4, "model_label": "Tomato___Septoria_leaf_spot", "english_name": "Septoria leaf spot", "kannada_name": null, "condition_type": "disease", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 5, "model_label": "Tomato___Spider_mites Two-spotted_spider_mite", "english_name": "Two-spotted spider mite", "kannada_name": null, "condition_type": "pest", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 6, "model_label": "Tomato___Target_Spot", "english_name": "Target spot", "kannada_name": null, "condition_type": "disease", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 7, "model_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus", "english_name": "Tomato yellow leaf curl virus", "kannada_name": null, "condition_type": "virus", "knowledge_records": ["tomato-major-disease-categories-001"], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 8, "model_label": "Tomato___Tomato_mosaic_virus", "english_name": "Tomato mosaic virus", "kannada_name": null, "condition_type": "virus", "knowledge_records": [], "guidance_eligible": false, "expert_review": "required"},
+    {"id": 9, "model_label": "Tomato___healthy", "english_name": "Healthy-looking tomato leaf", "kannada_name": null, "condition_type": "reference", "knowledge_records": [], "guidance_eligible": false, "expert_review": "not_applicable"}
+  ]
+}
